@@ -1,0 +1,84 @@
+{
+   "claim": [
+      {
+         "member_id": 100001,
+         "date_of_service": "1/1/2024",
+         "pdc_measure": "DIAB",
+         "gpi": "gpi1",
+         "ndc": "ndc1",
+         "pharmacy_npi": "npi1",
+         "drug_name": "drug1",
+         "days_supply": 30
+      },
+      {
+         "member_id": 100001,
+         "date_of_service": "2/1/2024",
+         "pdc_measure": "DIAB",
+         "gpi": "gpi1",
+         "ndc": "ndc1",
+         "pharmacy_npi": "npi1",
+         "drug_name": "drug1",
+         "days_supply": 15
+      },
+      {
+         "member_id": 100001,
+         "date_of_service": "2/15/2024",
+         "pdc_measure": "DIAB",
+         "gpi": "gpi1",
+         "ndc": "ndc1",
+         "pharmacy_npi": "npi1",
+         "drug_name": "drug1",
+         "days_supply": 15
+      },
+      {
+         "member_id": 100001,
+         "date_of_service": "2/29/2024",
+         "pdc_measure": "DIAB",
+         "gpi": "gpi1",
+         "ndc": "ndc1",
+         "pharmacy_npi": "npi1",
+         "drug_name": "drug1",
+         "days_supply": 15
+      },
+      {
+         "member_id": 100001,
+         "date_of_service": "3/15/2024",
+         "pdc_measure": "DIAB",
+         "gpi": "gpi1",
+         "ndc": "ndc1",
+         "pharmacy_npi": "npi1",
+         "drug_name": "drug1",
+         "days_supply": 15
+      },
+      {
+         "member_id": 100001,
+         "date_of_service": "3/30/2024",
+         "pdc_measure": "DIAB",
+         "gpi": "gpi1",
+         "ndc": "ndc1",
+         "pharmacy_npi": "npi1",
+         "drug_name": "drug1",
+         "days_supply": 15
+      },
+      {
+         "member_id": 100001,
+         "date_of_service": "1/7/2024",
+         "pdc_measure": "RAS",
+         "gpi": "gpi7",
+         "ndc": "ndc7",
+         "pharmacy_npi": "npi1",
+         "drug_name": "drug2",
+         "days_supply": 30
+      },
+      {
+         "member_id": 100001,
+         "date_of_service": "2/7/2024",
+         "pdc_measure": "RAS",
+         "gpi": "gpi7",
+         "ndc": "ndc8",
+         "pharmacy_npi": "npi1",
+         "drug_name": "drug2",
+         "days_supply": 30
+      }
+   ]
+}
